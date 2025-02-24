@@ -1,0 +1,1 @@
+This is the folder where your saved material data will be located, and where material searches will also be performed.
