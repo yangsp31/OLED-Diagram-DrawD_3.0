@@ -1,5 +1,26 @@
-This is a program that can help you create OLED diagrams. 
+# DrawD 3.0 - OLED 다이어그램 작성 응용 프로그램 (Window application)
 
-The built and deployed version can be downloaded here.
+### 응용 프로그램 다운 : [Google Drive](https://drive.google.com/file/d/1WPZiPO9TlY1bY0WjswT-ytspWFo-7x5C/view?usp=drive_link)
 
-[Google Drive](https://drive.google.com/file/d/1WPZiPO9TlY1bY0WjswT-ytspWFo-7x5C/view?usp=drive_link)
+* 해당 응용 프로그램은 사용자의 그 어떠한 정보도 수집하거나 사용하지 않으며, 사용자의 결과물을 이용하거나 타인에게 공개하지 않습니다.
+* 해당 응용 프로그램은 악성 코드를 포함하지 않으며, 사용자의 PC에 위해를 가하지 않습니다.
+* 한국저작권위원회에 비상업적 목적으로 컴퓨터프로그램저작물 / 응용프로그램으로 저작권이 등록되어 있습니다.
+<br>
+
+* 2025.02.21. - 2025.03.13.
+* 1인 프로젝트로 진행.
+<br><br><br>
+
+# 개요
+
+* 디스플레이 분야, 특히 OLED를 연구하는 대학원생의 연구 및 문서 작업 효율성을 높이기 위한 응용 프로그램
+* 사람이 손으로 그린 도식보다 정밀하고 객관적인 다이어그램을 작성할 수 있도록 지원하며, 실험 설계 단계나 연구 내용을 설명할 때 시각적 근거 자료로 활용될 수 있도록 개발
+* 순수 JAVA로 개발됨
+<br><br>
+
+# Architecture
+
+
+
+
+
